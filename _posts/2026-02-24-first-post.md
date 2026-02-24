@@ -1,5 +1,6 @@
 ---
 title: 如何搭建个人网站兼和减号的第一篇个人博客
+layout: post
 date: 2026-02-24 
 categories: [构建]
 tags: [Github，博客，记录]
