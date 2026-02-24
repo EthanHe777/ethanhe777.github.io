@@ -3,6 +3,7 @@ title: 如何搭建个人网站兼和减号的第一篇个人博客
 date: 2026-02-24 
 categories: [构建]
 tags: [Github，博客，记录]
+comments: true
 ---
 
 ##技术方案选择
