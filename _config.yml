@@ -116,8 +116,8 @@ comments:
     category: Announcements
     category_id: DIC_kwDORXUGV84C3HGb
     mapping: pathname
-     lang: zh-CN
-     reactions_enabled:1
+    lang: zh-CN
+    reactions_enabled: 1
   
   # The provider options are as follows:
   disqus:
